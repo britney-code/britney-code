@@ -1,8 +1,9 @@
 * 👨‍💻 I'm a first-year  master's student . 
 * 🧪 My research topic is about adversarial samples and interpretability and so on.
 * 😎 I am currently learning Pytorch, TensorFlow, and so on!
-* [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanqiang512)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanqiang512&layout=compact)
+
+  
 
 ### Languages and Skills
 <p>
@@ -20,4 +21,5 @@
 </p>
 
 ### GitHub Stats✨
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanqiang512&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanqiang512)](https://github.com/anuraghazra/github-readme-stats)
+<br>
