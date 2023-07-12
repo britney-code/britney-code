@@ -2,7 +2,7 @@
 * 🧪 My research topic is about adversarial samples and interpretability and so on.
 * 😎 I am currently learning Pytorch, TensorFlow, and so on!
 * 🐼 if any question， you can contact me！
-* 🎉[qq]: 1370192111@qq.com   [blog]: https://wanqiang512.github.io/wan/
+* 🎉[qq]: 1370192111@qq.com   [blog]: https://wanqiang512.github.io/
 * (●'◡'●) I will update the interpretation of the paper from time to time。
 
 ### Languages and Skills
