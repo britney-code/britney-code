@@ -1,8 +1,6 @@
-* 👨‍💻 I'm a first-year  master's student . 
-* 🧪 My research topic is about adversarial samples and interpretability and so on.
+
 * 😎 I am currently learning Pytorch, TensorFlow, and so on!
 * 🎉[qq]: 1370192111@qq.com   [blog]: https://britney-code.github.io/
-* (●'◡'●) I will update the interpretation of the paper from time to time。
 
 ### Languages and Skills
 <p>
